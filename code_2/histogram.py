@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import cv2 as cv
 
 def main():
-	img_path = './field.jpg'
+	img_path = './trees_in_water_2.jpg'
 	print(img_path)
 	rgb = plt.imread(img_path)
 
