@@ -9,3 +9,6 @@
    [second program-2](https://github.com/mursalin117/Image-Processing/blob/master/code_2/histogram2.py)
    
    [assignment-1](https://github.com/mursalin117/Image-Processing/tree/master/assignment-1)
+3. [third program](https://github.com/mursalin117/Image-Processing/blob/master/code_3/thresholdImage.py)
+   
+   [lab resource](https://github.com/mursalin117/Image-Processing/blob/master/lab-resource/PointProcessing.py)
