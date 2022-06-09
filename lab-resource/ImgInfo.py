@@ -14,7 +14,7 @@ import cv2
 
 def main():
 	'''	Load an RGB image.	'''
-	img_path = '../sunset.jpg'
+	img_path = '../code_1/sunset.jpg'
 	print(img_path)
 	rgb = plt.imread(img_path)
 	print(rgb.shape, rgb.max(), rgb.min())
