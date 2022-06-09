@@ -11,20 +11,18 @@ def main():
     T1 = 80
     T2 = 150
     c = 10
-    p = 20
+    p = 2
     epsilon = 1e-6
 
     grayscale = cv.cvtColor(rgb, cv.COLOR_RGB2GRAY)
     r, c = grayscale.shape
-    processed_img1 = np.zeros((r, c), dtype = np.uint8)
+    processed_img1 = 10 * np.ones((r, c), dtype = np.uint8)
     for x in range(r):
         for y in range(c):
             if (grayscale[x][y] > T1 and grayscale[x][y] < T2):
                 processed_img1[x][y] = 100
-            else:
-                processed_img1[x][y] = 10
-    
-    processed_img2 = grayscale
+                
+    processed_img2 = [row[:] for row in grayscale]
     for x in range(r):
         for y in range(c):
             if (processed_img2[x][y] > T1 and processed_img2[x][y] < T2):
@@ -36,7 +34,7 @@ def main():
     #     for y in range(c):
     #         processed_img3[x][y] = c*np.log(1+processed_img3[x][y])
 
-    processed_img4 = c * ((r + grayscale) ** p)
+    processed_img4 = c * ((epsilon + grayscale) ** p)
 
     img_set = [rgb, grayscale, processed_img1, processed_img2, processed_img3, processed_img4]
     title_set = ['RGB', 'Grayscale', 'Processed Image 1', 'Processed Image 2', 'Processed Image 3', 'Processed Image 4']
