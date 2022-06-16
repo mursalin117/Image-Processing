@@ -24,3 +24,10 @@
    [fifth program-2](https://github.com/mursalin117/Image-Processing/blob/master/code_5/filter.py)
    
    [assignment-4](https://github.com/mursalin117/Image-Processing/tree/master/assignment-4)
+6. [sixth program-1](https://github.com/mursalin117/Image-Processing/tree/master/code_6/masking.py)
+   
+   [sixth program-2](https://github.com/mursalin117/Image-Processing/blob/master/code_6/bitsise_operation.py)
+   
+   [sixth program-3](https://github.com/mursalin117/Image-Processing/blob/master/code_6/filtering.py)
+
+   [assignment-5](https://github.com/mursalin117/Image-Processing/tree/master/assignment-5)
