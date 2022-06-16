@@ -14,7 +14,7 @@ def main():
     bit1_img = np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
     bit2_img = 2 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
     bit3_img = 4 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
-    bit4_img = 8 *np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
+    bit4_img = 8 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
     bit5_img = 16 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
     bit6_img = 32 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
     bit7_img = 64 * np.ones((grayscale.shape[0], grayscale.shape[1]), dtype = np.uint8)
