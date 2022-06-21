@@ -31,3 +31,6 @@
    [sixth program-3](https://github.com/mursalin117/Image-Processing/blob/master/code_6/filtering.py)
 
    [assignment-5](https://github.com/mursalin117/Image-Processing/tree/master/assignment-5)
+7. [seventh program](https://github.com/mursalin117/Image-Processing/blob/master/code_7/noise.py)
+
+   [assignment-6](https://github.com/mursalin117/Image-Processing/tree/master/assignment-6)
