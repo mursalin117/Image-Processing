@@ -44,8 +44,7 @@ def histogram(arr):
 
     for i in range(arr.shape[0]):
         for j in range(arr.shape[1]):
-            if (arr[i][j] != 0):
-                frequencyCount[arr[i][j]] += 1
+            frequencyCount[arr[i][j]] += 1
     
     return frequencyCount     
 
