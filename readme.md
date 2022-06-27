@@ -34,3 +34,6 @@
 7. [seventh program](https://github.com/mursalin117/Image-Processing/blob/master/code_7/noise.py)
 
    [assignment-6](https://github.com/mursalin117/Image-Processing/tree/master/assignment-6)
+8. [eight program](https://github.com/mursalin117/Image-Processing/blob/master/code_8/shiftHistogram.py)
+
+   [assignment-7](https://github.com/mursalin117/Image-Processing/tree/master/assignment-7)
