@@ -37,3 +37,19 @@
 8. [eight program](https://github.com/mursalin117/Image-Processing/blob/master/code_8/shiftHistogram.py)
 
    [assignment-7](https://github.com/mursalin117/Image-Processing/tree/master/assignment-7)
+
+9. [ninth program](https://github.com/mursalin117/Image-Processing/blob/master/code_9/morphological_operation.py)
+
+   [assignment-8](https://github.com/mursalin117/Image-Processing/tree/master/assignment-8)
+
+10. [tenth program](https://github.com/mursalin117/Image-Processing/blob/master/code_10/morphological_operation.py)
+
+   [assignment-9](https://github.com/mursalin117/Image-Processing/tree/master/assignment-9)
+
+11. [eleventh program](https://github.com/mursalin117/Image-Processing/blob/master/code_11/histogram_equalization.py)
+
+   [assignment-10](https://github.com/mursalin117/Image-Processing/tree/master/assignment-10)
+
+12. [twelfth program](https://github.com/mursalin117/Image-Processing/blob/master/code_12/fft2.py)
+
+   [assignment-11](https://github.com/mursalin117/Image-Processing/tree/master/assignment-11)
