@@ -43,11 +43,11 @@
 
    [assignment-8](https://github.com/mursalin117/Image-Processing/tree/master/assignment-8)
 
-10. [tenth program](https://github.com/mursalin117/Image-Processing/blob/master/code_10/morphological_operation.py)
+10. [tenth program](https://github.com/mursalin117/Image-Processing/blob/master/code_10/morphological_opertation.py)
 
     [assignment-9](https://github.com/mursalin117/Image-Processing/tree/master/assignment-9)
 
-11. [eleventh program](https://github.com/mursalin117/Image-Processing/blob/master/code_11/histogram_equalization.py)
+11. [eleventh program](https://github.com/mursalin117/Image-Processing/blob/master/code_11/histogram_euqalization.py)
 
     [assignment-10](https://github.com/mursalin117/Image-Processing/tree/master/assignment-10)
 
@@ -56,3 +56,17 @@
     [lab resource](https://github.com/mursalin117/Image-Processing/blob/master/lab-resource/fft2.py)
 
     [assignment-11](https://github.com/mursalin117/Image-Processing/tree/master/assignment-11)
+
+13. [thirteen program](https://github.com/mursalin117/Image-Processing/blob/master/code_13/What_DifferentChannels_of_CNN_See.py)
+
+    [lab resource](https://github.com/mursalin117/Image-Processing/blob/master/lab-resource/What_DifferentChannels_of_CNN_See.py)
+
+    [assignment-12](https://github.com/mursalin117/Image-Processing/tree/master/assignment-12)
+
+14. [fourteen program-1](https://github.com/mursalin117/Image-Processing/blob/master/code_14/image_conversion.py)
+
+    [fourteen program-2](https://github.com/mursalin117/Image-Processing/blob/master/code_14/image_conversion2.py)
+
+    [assignment-13](https://github.com/mursalin117/Image-Processing/tree/master/assignment-13)
+
+15. [fifteen program](https://github.com/mursalin117/Image-Processing/blob/master/code_15/image_compression.py)
