@@ -52,9 +52,9 @@ def img_plot(img, title):
 def erosion(img_binary, kernel):
     r, c = img_binary.shape
     x, y = kernel.shape
-    img_process = np.zeros((r-x-1, c-y-1))
-    for i in range(r-x-1):
-        for j in range(c-y-1):
+    img_process = np.zeros((r-x+1, c-y+1))
+    for i in range(r-x+1):
+        for j in range(c-y+1):
             sum = np.sum(img_binary[i:i+x, j:j+y] * kernel) # only for fit, the pixel value will be 1
             check = np.sum(kernel * (255 * np.ones((3, 3))))
             if (sum == check):
