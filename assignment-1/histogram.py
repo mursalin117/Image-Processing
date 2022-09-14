@@ -4,6 +4,7 @@ import cv2 as cv
 def main():
 	img_path = './trees_in_water_3.jpg'
 	print(img_path)
+	
 	rgb = plt.imread(img_path)
 
 	red = rgb[:, :, 0]
