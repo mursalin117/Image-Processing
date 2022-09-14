@@ -64,9 +64,9 @@ def erosion(img_binary, kernel):
 def dilation(img_binary, kernel):
     r, c = img_binary.shape
     x, y = kernel.shape
-    img_process = np.zeros((r-x-1, c-y-1))
-    for i in range(r-x-1):
-        for j in range(c-y-1):
+    img_process = np.zeros((r-x+1, c-y+1))
+    for i in range(r-x+1):
+        for j in range(c-y+1):
             sum = np.sum(img_binary[i:i+x, j:j+y] * kernel) 
             if (sum >= 255): # both for fit, hit the pixel value will be 1
                 img_process[i][j] = 255
