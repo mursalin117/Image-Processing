@@ -31,4 +31,4 @@
 | ***[fifteenth task](https://github.com/mursalin117/Image-Processing/blob/master/code_15/image_compression.py)*** | | ***[assignment-14](https://github.com/mursalin117/Image-Processing/tree/master/assignment-14)*** |
 | ***[sixteenth program](https://github.com/mursalin117/Image-Processing/blob/master/code_16/test_deblur.py)***| ***[resource-6](https://github.com/mursalin117/Image-Processing/blob/master/lab-resource/Deblurring.py)*** | ***[assignment-15](https://github.com/mursalin117/Image-Processing/tree/master/assignment-15)*** |
 |||
-| ***lab-test-1*** | ***lab-test-2*** | ***Final-Assignment*** |
+| ***[lab-test-1](https://github.com/mursalin117/Image-Processing/tree/master/lab-test-1)*** | ***[lab-test-2](https://github.com/mursalin117/Image-Processing/tree/master/lab-test-2)*** | ***[Final-Assignment](https://github.com/mursalin117/Image-Processing/tree/master/assignment-final)*** |
